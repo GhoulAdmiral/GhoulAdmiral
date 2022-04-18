@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on /DigiMegaten.
 - 🌱 I’m currently learning C and EraBasic
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGhoulAdmiral%2FGhoulAdmiral%2Fblob%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=laravelhorizon.svg&icon_color=%231218E1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <!--
 **GhoulAdmiral/GhoulAdmiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
