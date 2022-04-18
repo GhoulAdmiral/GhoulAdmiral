@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+미래의 게임 개발자를 꿈꾸는 구울제독입니다.
+
+- 🔭 I’m currently working on /DigiMegaten.
+- 🌱 I’m currently learning C and EraBasic
+
 <!--
 **GhoulAdmiral/GhoulAdmiral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
